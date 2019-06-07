@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Hallux Limitus see [here](./halluxlimitus.md)
+Hallux Limitus see [here](halluxlimitus.md)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
